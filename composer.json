@@ -1,0 +1,22 @@
+{
+    "name": "CSETech/module-currencyconverter",
+    "description": "Converts currencies using the Free Currency Converter API.",
+    "type": "magento2-module",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Chen Si-En, Sarah @ CSETech",
+            "email": "sarah.chen@CSETech.com.sg"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "CSETech\\CurrencyConverter\\": ""
+        }
+    }
+}

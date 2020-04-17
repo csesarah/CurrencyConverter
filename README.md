@@ -1,4 +1,4 @@
-# CSETech - Free Currency Converter API Connector
+# Magento 2.2.6 Free Currency Converter API Connector
 MIT License - Copyright (C) 2019 Chen Si-En, Sarah
 
 Converts currencies using the Free Currency Converter API. Fallback for when existing/default Magento currency converters do not work.
